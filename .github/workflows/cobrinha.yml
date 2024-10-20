@@ -9,6 +9,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Add this line to grant write permissions
 
     steps:
       # Configuración de Node.js 20
