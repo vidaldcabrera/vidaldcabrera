@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Vidal Daniel Cabrera Bernal.
 
-- 🔭 Trabalho como bolsista/estagiário no LALT | FECFAU | UNICAMP (Laboratório de Aprendizagem em Logística e Transportes). Atuo como programador Full-Stack e cuido da infraestrutura do laboratório.
 - 🌱 Atualmente estudo Engenharia de Computação na Unicamp(Universidade Estadual de Campinas). Também faço parte do Apple Developer Academy no Instituto Eldorado de Pesquisas de Campinas.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
